@@ -18,8 +18,8 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://app.galileo.fairdatasociety.org
+    button_text: Try out Galileo
 - template: hero-banner-w-image
   block: hero-2
   slug: features
