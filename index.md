@@ -18,7 +18,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/10/01/temp-creative-element.jpg"
   navigation:
-  - link: _posts
+  - link: _posts/
     link_text: Posts
   - link: _posts/
     link_text: https://example.com
