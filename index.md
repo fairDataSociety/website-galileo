@@ -18,6 +18,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/10/01/temp-creative-element.jpg"
   navigation:
+  - link: "/"
+    link_text: Root
   - link: "./posts/2021-10-01-test-blog-post.html"
     link_text: Posts
   - link: test-blog-post
