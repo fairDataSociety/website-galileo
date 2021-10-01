@@ -20,7 +20,7 @@ page_sections:
   navigation:
   - link: posts
     link_text: Posts
-  - link: _posts/
+  - link: test-blog-post
     link_text: test-blog-post
 - template: hero-banner-w-image
   block: hero-2
