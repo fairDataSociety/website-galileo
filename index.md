@@ -21,7 +21,7 @@ page_sections:
   - link: posts
     link_text: Posts
   - link: _posts/
-    link_text: https://example.com
+    link_text: test-blog-post
 - template: hero-banner-w-image
   block: hero-2
   slug: features
