@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/posts"
+  - link: "/Posts/"
     link_text: Blog
   cta:
     url: https://app.galileo.fairdatasociety.org
