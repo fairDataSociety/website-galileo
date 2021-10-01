@@ -23,7 +23,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: first link
+    link_text: https://example.com
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -39,7 +41,7 @@ page_sections:
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2021/10/01/temp-logo.PNG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
