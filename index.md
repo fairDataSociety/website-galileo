@@ -20,6 +20,10 @@ page_sections:
   cta:
     url: https://app.galileo.fairdatasociety.org
     button_text: Try out Galileo
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -33,6 +37,9 @@ page_sections:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -82,6 +89,10 @@ page_sections:
     headline: Headlinee 3
     slug: ''
     content: 'asdadddddskd '
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 - template: detail-content
   block: text-1
   headline: Steps to Contributing to Galileo!
