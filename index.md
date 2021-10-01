@@ -91,8 +91,8 @@ page_sections:
     content: 'asdadddddskd '
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: Detail content
+  content: "<p>A lot of details about <strong>everything </strong></p><ol><li><p>dsdfsdf</p></li><li><p>dsfsfsf</p></li><li><p>sdfsdfsfsdf</p></li><li><p>sdfsdfsdf</p></li></ol>"
 - template: detail-content
   block: text-1
   headline: Steps to Contributing to Galileo!
@@ -118,7 +118,7 @@ page_sections:
   content: Made with ❤︎ by Fair Data Society.
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/10/01/temp-creative-element.jpg"
+  image: ''
   col_2: Column 2
   col_3: Column 3
   col_4: Column 4<img src="/uploads/2021/10/01/temp-creative-element.jpg">
