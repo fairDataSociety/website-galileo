@@ -23,7 +23,7 @@ page_sections:
   - link: "./posts/2021-10-01-test-blog-post.html"
     link_text: Posts
   - link: _posts/test-blog-post.md
-    link_text: "/pages/test-blog-post"
+    link_text: example
 - template: hero-banner-w-image
   block: hero-2
   slug: features
