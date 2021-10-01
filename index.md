@@ -11,12 +11,6 @@ page_sections:
     link_text: Home
   - link: "/posts"
     link_text: Blog
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: https://app.galileo.fairdatasociety.org
     button_text: Try out Galileo
