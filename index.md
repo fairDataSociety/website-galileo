@@ -43,7 +43,7 @@ page_sections:
     different sections.
   media:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: The planet is ours to map.
 - template: content-feature
   block: feature-1
   media_alignment: Right
