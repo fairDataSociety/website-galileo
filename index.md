@@ -71,17 +71,17 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
+    headline: Headline 1
     slug: ''
-    content: ''
+    content: aadjaskldjaklsdjalkdajldljasd
   col_2:
-    headline: ''
+    headline: 'Headline 2 '
     slug: ''
-    content: ''
+    content: saadasdaskldčlasd asdlč aslčdk ačdk lčad
   col_3:
-    headline: ''
+    headline: Headlinee 3
     slug: ''
-    content: ''
+    content: 'asdaskd '
 - template: detail-content
   block: text-1
   headline: Steps to Contributing to Galileo!
