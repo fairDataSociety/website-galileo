@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#swap"
-    link_text: Swap
+  - link: "/posts"
+    link_text: Blog
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
@@ -22,7 +22,7 @@ page_sections:
     button_text: Try out Galileo
 - template: navigation-header
   block: header-1
-  logo: ''
+  logo: "/uploads/2021/10/01/temp-creative-element.jpg"
   navigation:
   - link: second link
     link_text: www.example.com
