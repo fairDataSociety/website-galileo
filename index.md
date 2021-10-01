@@ -24,6 +24,8 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
+  - link: second link
+    link_text: www.example.com
   - link: first link
     link_text: https://example.com
 - template: hero-banner-w-image
