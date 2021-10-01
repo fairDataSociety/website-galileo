@@ -20,7 +20,7 @@ page_sections:
   navigation:
   - link: "/_posts"
     link_text: Posts
-  - link: "./_posts/*"
+  - link: _posts/
     link_text: https://example.com
 - template: hero-banner-w-image
   block: hero-2
