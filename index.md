@@ -68,6 +68,20 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    slug: ''
+    content: ''
+  col_2:
+    headline: ''
+    slug: ''
+    content: ''
+  col_3:
+    headline: ''
+    slug: ''
+    content: ''
 - template: detail-content
   block: text-1
   headline: Steps to Contributing to Galileo!
@@ -76,8 +90,26 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Fair Data Society.
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/10/01/temp-creative-element.jpg"
+  col_2: Column 2
+  col_3: Column 3
+  col_4: Column 4<img src="/uploads/2021/10/01/temp-creative-element.jpg">
 
 ---
