@@ -20,7 +20,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Root
-  - link: "{{ posts.url }}"
+  - link: "/posts/test"
     link_text: Posts
   - link: _posts/test-blog-post.md
     link_text: example
