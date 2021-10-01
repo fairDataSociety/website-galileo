@@ -20,7 +20,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Root
-  - link: site.posts
+  - link: blog.html
     link_text: Posts
   - link: _posts/test-blog-post.md
     link_text: example
