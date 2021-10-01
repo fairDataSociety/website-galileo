@@ -22,7 +22,7 @@ page_sections:
     link_text: Root
   - link: "./posts/2021-10-01-test-blog-post.html"
     link_text: Posts
-  - link: "/_posts/2021-10-01-test-blog-post.md"
+  - link: _posts/2021-10-01-test-blog-post.md
     link_text: "/pages/test-blog-post"
 - template: hero-banner-w-image
   block: hero-2
