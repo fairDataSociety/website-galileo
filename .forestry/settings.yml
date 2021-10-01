@@ -7,7 +7,6 @@ sections:
 - type: document
   path: blog.html
   label: Blog
-  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
