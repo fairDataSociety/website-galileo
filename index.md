@@ -18,8 +18,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2021/10/01/temp-creative-element.jpg"
   navigation:
-  - link: second link
-    link_text: www.example.com
+  - link: "/_posts"
+    link_text: Posts
   - link: first link
     link_text: https://example.com
 - template: hero-banner-w-image
