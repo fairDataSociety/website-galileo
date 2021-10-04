@@ -87,9 +87,6 @@ page_sections:
   block: cta-bar
   content: Build on Galileo on the upcoming Hackathon!
   email_recipient: crt.ahlin@ethswarm.org
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ by Fair Data Society.
 - template: 4-column-footer
   block: footer-2
   image: ''
@@ -97,5 +94,8 @@ page_sections:
   col_3: Column 3<br><img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_4: Column 4<br><img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_1: Column 1<br><br><img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
+- template: simple-footer
+  block: footer-1
+  content: Made with ❤︎ by Fair Data Society.
 
 ---
