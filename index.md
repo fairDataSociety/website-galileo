@@ -30,6 +30,26 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: "/uploads/2021/10/01/temp-logo.PNG"
+- template: 1-column-text
+  block: one-column-1
+  slug: responsive
+  headline: Project Galileo - The world as you want to see it.
+  content: The World is not one, the Worlds are many. <br>Take matters into your own
+    hand and contribute to the emerging Metaverse.
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Start with Mother Earth.
+    slug: ''
+    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
+  col_2:
+    headline: 'Headline 2 '
+    slug: ''
+    content: saadasdaskldčlasd asdlč aslčdk ačdk lčad
+  col_3:
+    headline: Headlinee 3
+    slug: ''
+    content: 'asdadddddskd '
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -52,31 +72,11 @@ page_sections:
   media:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
     alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  slug: responsive
-  headline: Project Galileo - The world as you want to see it.
-  content: The World is not one, the Worlds are many. <br>Take matters into your own
-    hand and contribute to the emerging Metaverse.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
   caption: All Available Blocks
   slug: blocks
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Headline 1
-    slug: ''
-    content: aadjaskldjaklsdjalkdajldljasd
-  col_2:
-    headline: 'Headline 2 '
-    slug: ''
-    content: saadasdaskldčlasd asdlč aslčdk ačdk lčad
-  col_3:
-    headline: Headlinee 3
-    slug: ''
-    content: 'asdadddddskd '
 - template: detail-content
   block: text-1
   headline: Detail content
