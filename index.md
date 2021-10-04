@@ -68,7 +68,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Move to other worlds
   content: Build an app and use the maps and layers provided.
   media:
