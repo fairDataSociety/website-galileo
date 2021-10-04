@@ -38,12 +38,11 @@ page_sections:
   col_1:
     headline: Start with Mother Earth.
     slug: ''
-    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG" title="title" alt="alt
-      text">
+    content: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_2:
     headline: Add layers on top.
     slug: ''
-    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
+    content: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_3:
     headline: Move to other worlds.
     slug: ''
