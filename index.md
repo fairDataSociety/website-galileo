@@ -84,15 +84,6 @@ page_sections:
     hosted by peers, compensating them for the provided storage and bandwidth, addressing
     also the country maintainers.
   slug: ''
-- template: 4-column-footer
-  block: footer-3
-  col_1: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
-    <br>Column 1
-  col_2: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG"><br>Column
-    2
-  col_3: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG"><br>Column
-    3
-  col_4: "<br>"
 - template: signup-bar
   block: cta-bar
   content: Build on Galileo on the upcoming Hackathon!
