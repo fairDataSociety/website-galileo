@@ -91,11 +91,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Fair Data Society.
-- template: 4-column-footer
-  block: footer-3
-  col_1: t
-  col_2: text
-  col_3: text
-  col_4: text
 
 ---
