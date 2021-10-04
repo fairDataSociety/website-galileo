@@ -24,7 +24,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2021/10/01/temp-creative-element.jpg"
+    image: ''
     alt_text: Product Shot
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: simple-header
