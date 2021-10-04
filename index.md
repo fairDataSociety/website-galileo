@@ -55,11 +55,9 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   slug: responsive
-  headline: 16 Fully Responsive Design Blocks
-  content: |
-    The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-    create new sites and make them fully customizable.
+  headline: Project Galileo - The world as you want to see it.
+  content: The World is not one, the Worlds are many. <br>Take matters into your own
+    hand and contribute to the emerging Metaverse.
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
