@@ -51,10 +51,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: Start with mother Earth
+  content: Run your own node and become a country maintainer. Try out how the incentive
+    system will reward your efforts.
   media:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
     alt_text: The planet is ours to map.
@@ -62,13 +61,20 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: Add layers on top
+  content: Make a layer to be used with the maps and share it with the community.
   media:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Move to other worlds
+  content: Build an app and use the maps and layers provided.
+  media:
+    image: "/uploads/2021/10/01/temp-creative-element.jpg"
+    alt_text: ''
+  slug: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
