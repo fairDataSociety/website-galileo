@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/10/01/temp-logo.PNG"
+  logo: "/uploads/2021/10/04/temp-galileo-logo.PNG"
   navigation:
   - link: "/"
     link_text: Home
