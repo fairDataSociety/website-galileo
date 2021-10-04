@@ -26,7 +26,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-    show_image: true
+    show_image: false
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
