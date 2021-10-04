@@ -7,9 +7,6 @@ fields:
   label: block
   name: block
   default: footer-2
-- type: file
-  label: Column 1 Image
-  name: image
 - name: col_1
   type: textarea
   default: ''
