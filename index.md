@@ -14,16 +14,6 @@ page_sections:
   cta:
     url: https://app.galileo.fairdatasociety.org
     button_text: Try out Galileo
-- template: navigation-header
-  block: header-1
-  logo: "/uploads/2021/10/01/temp-creative-element.jpg"
-  navigation:
-  - link: "/"
-    link_text: Root
-  - link: blog.html
-    link_text: Posts
-  - link: _posts/test-blog-post.md
-    link_text: example
 - template: hero-banner-w-image
   block: hero-2
   slug: features
