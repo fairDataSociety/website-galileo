@@ -38,7 +38,8 @@ page_sections:
   col_1:
     headline: Start with Mother Earth.
     slug: ''
-    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
+    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG" title="title" alt="alt
+      text">
   col_2:
     headline: Add layers on top.
     slug: ''
