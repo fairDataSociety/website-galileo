@@ -7,6 +7,13 @@ fields:
   label: block
   name: block
   default: footer-2
+- type: textarea
+  name: col_2
+  label: Column 2 Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
 - name: col_1
   type: textarea
   default: ''
@@ -16,13 +23,6 @@ fields:
     schema:
       format: html
   label: Column 1 Content
-- type: textarea
-  name: col_2
-  label: Column 2 Content
-  config:
-    wysiwyg: true
-    schema:
-      format: html
 - type: textarea
   name: col_3
   label: Column 3 Content
