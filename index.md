@@ -85,8 +85,8 @@ page_sections:
   slug: ''
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: Build on Galileo on the upcoming Hackathon!
+  email_recipient: crt.ahlin@ethswarm.org
 - template: 2-column-media-element
   block: media-2
   image_1:
