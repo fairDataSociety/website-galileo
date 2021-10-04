@@ -93,9 +93,9 @@ page_sections:
   content: Made with ❤︎ by Fair Data Society.
 - template: 4-column-footer
   block: footer-3
-  col_1: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
-  col_2: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
-  col_3: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
-  col_4: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
+  col_1: t
+  col_2: text
+  col_3: text
+  col_4: text
 
 ---
