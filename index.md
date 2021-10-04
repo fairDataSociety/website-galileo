@@ -75,23 +75,14 @@ page_sections:
     image: "/uploads/2021/10/01/temp-creative-element.jpg"
     alt_text: ''
   slug: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
-  caption: All Available Blocks
-  slug: blocks
-- template: detail-content
-  block: text-1
-  headline: Detail content
-  content: "<p>A lot of details about <strong>everything </strong></p><ol><li><p>dsdfsdf</p></li><li><p>dsfsfsf</p></li><li><p>sdfsdfsfsdf</p></li><li><p>sdfsdfsdf</p></li></ol>"
-- template: detail-content
-  block: text-1
-  headline: Steps to Contributing to Galileo!
-  content: <p>uBuild is an open-source Jekyll based demo that doubles as a builder
-    tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import
-    this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
-    Blocks and preview them as you go along.</p></li></ol>
+- template: 1-column-text
+  block: one-column-1
+  headline: Powered by Swarm and using Openstreetmaps data.
+  content: Thanks to the community efforts behind Openstreetmaps maps of the world
+    are already freely available. Thanks to the power of Swarm, the data can be hosted
+    by peers, compensating them for the provided storage and bandwidth, addressing
+    also the country maintainers.
+  slug: ''
 - template: signup-bar
   block: cta-bar
   content: ''
