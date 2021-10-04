@@ -20,7 +20,7 @@ page_sections:
   headline: You can build the<br><strong>new world.</strong>
   content: Make it a fair and free one.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
