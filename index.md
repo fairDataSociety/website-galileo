@@ -48,7 +48,7 @@ page_sections:
     headline: Move to other worlds.
     slug: ''
     content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG" title="Image" alt="An
-      image ..."><br>Lorem ipsum
+      image ..."><img src="/uploads/2021/10/04/temp-galileo-logo.PNG"><br>Lorem ipsum
 - template: content-feature
   block: feature-1
   media_alignment: Left
