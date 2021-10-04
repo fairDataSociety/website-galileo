@@ -90,7 +90,7 @@ page_sections:
   email_recipient: crt.ahlin@ethswarm.org
 - template: 4-column-footer
   block: footer-2
-  col_1: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
+  col_1: '<img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG"> '
   col_2: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_3: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_4: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG">
