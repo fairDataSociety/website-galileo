@@ -25,7 +25,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: simple-header
   block: header-3
