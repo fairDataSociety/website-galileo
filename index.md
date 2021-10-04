@@ -17,8 +17,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: You deserve<br><strong>fair maps</strong>
-  content: Some further explanation on why you need this.
+  headline: You can build the<br><strong>new world.</strong>
+  content: Make it a fair and free one.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
