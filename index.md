@@ -87,14 +87,6 @@ page_sections:
   block: cta-bar
   content: Build on Galileo on the upcoming Hackathon!
   email_recipient: crt.ahlin@ethswarm.org
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2021/10/01/temp-creative-element.jpg"
-    caption: Caption
-  image_2:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    caption: Cpation 2
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Fair Data Society.
