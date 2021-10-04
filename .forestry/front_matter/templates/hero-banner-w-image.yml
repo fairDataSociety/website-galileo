@@ -17,9 +17,16 @@ fields:
   - type: file
     name: image
     label: Image
+    showOnly:
+      field: show_image
+      value: true
   - type: text
     name: alt_text
     label: Alt Text
+  - name: show_image
+    type: boolean
+    label: Show image
+    default: true
 - type: textarea
   name: headline
   label: Headline
