@@ -1,4 +1,12 @@
 ---
 label: 4-column-new
 hide_body: false
-fields: []
+fields:
+- name: 4-column
+  type: blocks
+  label: 4-column
+  template_types:
+  - 4-column-new
+  config:
+    min: 
+    max: 
