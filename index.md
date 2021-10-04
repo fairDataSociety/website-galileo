@@ -43,13 +43,13 @@ page_sections:
     slug: ''
     content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_2:
-    headline: 'Headline 2 '
+    headline: Add layers on top.
     slug: ''
-    content: saadasdaskldčlasd asdlč aslčdk ačdk lčad
+    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
   col_3:
-    headline: Headlinee 3
+    headline: Move to other worlds.
     slug: ''
-    content: 'asdadddddskd '
+    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG">
 - template: content-feature
   block: feature-1
   media_alignment: Left
