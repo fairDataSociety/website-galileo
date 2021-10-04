@@ -79,8 +79,8 @@ page_sections:
   block: one-column-1
   headline: Powered by Swarm and using Openstreetmaps data.
   content: Thanks to the community efforts behind Openstreetmaps maps of the world
-    are already freely available. Thanks to the power of Swarm, the data can be hosted
-    by peers, compensating them for the provided storage and bandwidth, addressing
+    are already freely available. <br>Thanks to the power of Swarm, the data can be
+    hosted by peers, compensating them for the provided storage and bandwidth, addressing
     also the country maintainers.
   slug: ''
 - template: signup-bar
