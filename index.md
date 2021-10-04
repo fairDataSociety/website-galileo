@@ -47,8 +47,7 @@ page_sections:
   col_3:
     headline: Move to other worlds.
     slug: ''
-    content: <img src="/uploads/2021/10/04/temp-galileo-logo.PNG" title="Image" alt="An
-      image ..."><img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG"><br>Lorem
+    content: <img src="https://fairdatasociety.github.io/website-galileo/uploads/2021/10/04/temp-galileo-logo.PNG"><br>Lorem
       ipsum
 - template: content-feature
   block: feature-1
