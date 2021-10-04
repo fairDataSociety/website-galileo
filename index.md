@@ -87,12 +87,6 @@ page_sections:
   block: cta-bar
   content: Build on Galileo on the upcoming Hackathon!
   email_recipient: crt.ahlin@ethswarm.org
-- template: 4-column-footer
-  block: footer-2
-  col_1: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by Fair Data Society.
