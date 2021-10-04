@@ -35,12 +35,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-- name: column_5_content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: html
-  label: Column 5 content
