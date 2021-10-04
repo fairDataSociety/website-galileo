@@ -1,4 +1,47 @@
 ---
 label: 4-column
 hide_body: false
-fields: []
+fields:
+- name: 4-columns
+  type: blocks
+  label: 4-columns
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: column1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: column1
+- name: column2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: column2
+- name: column3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: column3
+- name: column4
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html
+  label: column4
