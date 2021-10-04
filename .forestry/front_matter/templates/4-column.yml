@@ -1,6 +1,6 @@
 ---
 label: 4-column
-hide_body: false
+hide_body: true
 fields:
 - name: 4-columns
   type: blocks
