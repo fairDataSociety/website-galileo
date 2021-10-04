@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2021-10-03 22:00:00 +0000
+date: 2021-10-03T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -26,6 +26,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
+    show_image: true
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
