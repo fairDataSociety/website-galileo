@@ -5,7 +5,7 @@ date: 2021-10-03T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/11/26/logo6galileo-micro.png"
+  logo: "/uploads/2021/11/26/logo6galileo-mini.png"
   navigation:
   - link: "/"
     link_text: Home
