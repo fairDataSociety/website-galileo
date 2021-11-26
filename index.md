@@ -53,7 +53,8 @@ page_sections:
   slug: mother-earth
   headline: Start with mother Earth
   content: Run your own node and become a country maintainer. Try out how the incentive
-    system will reward your efforts.<br><br>TODO ADD LINK TO INSTRUCTIONS
+    system will reward your efforts.<br><br>Yes, I want to <a href="./contribute-maps"
+    title="Contribute maps">Contribute maps</a>!
   media:
     image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
@@ -62,7 +63,8 @@ page_sections:
   media_alignment: Right
   slug: layers
   headline: Add layers on top
-  content: Make a layer to be used with the maps and share it with the community.
+  content: Make a layer to be used with the maps and share it with the community.<br><br><em>COMING
+    SOON(ISH)...</em>
   media:
     image: "/uploads/2021/11/26/layers-2galileo.svg"
     alt_text: Customize Blocks
@@ -70,22 +72,21 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Move to other worlds
-  content: Build an app and use the maps and layers provided.
+  content: Build an app and use the maps and layers provided.<br><br><em>COMING SOON(ISH)...</em>
   media:
     image: "/uploads/2021/11/26/other-worlds-3galileo.svg"
     alt_text: ''
   slug: metaverse
 - template: 1-column-text
   block: one-column-1
-  headline: Powered by Openstreetmaps data and using Swarm decentralized storage.
-  content: Thanks to the community efforts behind Openstreetmaps maps of the world
-    are already freely available. <br><br>Using Swarm storage, the data can be hosted
-    by peers, compensating them for the provided storage and bandwidth.
+  headline: Powered by OpenStreetMap data and using Swarm decentralized storage.
+  content: Thanks to the community efforts behind <a href="https://www.openstreetmap.org/"
+    title="OpenStreetMap">OpenStreetMap</a>, maps of the world are already freely
+    available. <br><br>Using <a href="https://www.ethswarm.org/" title="Swarm">Swarm</a>
+    storage via <a href="https://github.com/fairDataSociety/fairOS-dfs" title="FairOS-dfs">FairOS-dfs</a>,
+    the data can be hosted by peers, compensating them for the provided storage and
+    bandwidth.
   slug: powered-by
-- template: signup-bar
-  block: cta-bar
-  content: Build on Galileo on the upcoming Hackathon!
-  email_recipient: crt.ahlin@ethswarm.org
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="https://fairdatasociety.org/" title="Fair Data
