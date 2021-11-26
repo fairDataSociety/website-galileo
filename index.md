@@ -33,7 +33,7 @@ page_sections:
   slug: responsive
   headline: Project Galileo - The world as you want to see it.
   content: The World is not one, the Worlds are many. <br>Take matters into your own
-    hand and contribute to the emerging Metaverse.
+    hands and contribute to the emerging Metaverse.
 - template: 3-column-text
   block: three-column-1
   col_1:
