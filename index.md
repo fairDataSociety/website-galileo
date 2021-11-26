@@ -53,7 +53,8 @@ page_sections:
   slug: mother-earth
   headline: Start with mother Earth
   content: Run your own node and become a country maintainer. Try out how the incentive
-    system will reward your efforts.<br><br>TODO ADD LINK TO INSTRUCTIONS
+    system will reward your efforts.<br><br><a href="./contribute-maps" title="Contribute
+    maps">Contribute maps</a>!
   media:
     image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
