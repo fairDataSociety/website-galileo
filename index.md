@@ -75,7 +75,7 @@ page_sections:
   media:
     image: "/uploads/2021/11/26/other-worlds-3galileo.svg"
     alt_text: ''
-  slug: ''
+  slug: metaverse
 - template: 1-column-text
   block: one-column-1
   headline: Powered by Openstreetmaps data and using Swarm decentralized storage.
