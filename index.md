@@ -5,8 +5,10 @@ date: 2021-10-03T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/10/04/temp-galileo-logo.PNG"
+  logo: "/uploads/2021/11/26/logo5galileo.svg"
   navigation:
+  - link: contribute-maps
+    link_text: Contribute maps
   - link: "/"
     link_text: Home
   - link: _posts
