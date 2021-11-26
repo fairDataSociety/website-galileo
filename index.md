@@ -13,7 +13,7 @@ page_sections:
     link_text: Contribute maps
   cta:
     url: https://app.galileo.fairdatasociety.org
-    button_text: Try out Galileo
+    button_text: Try out Galileo Maps
 - template: hero-banner-w-image
   block: hero-2
   slug: features
