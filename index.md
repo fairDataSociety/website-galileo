@@ -89,6 +89,7 @@ page_sections:
   email_recipient: crt.ahlin@ethswarm.org
 - template: simple-footer
   block: footer-1
-  content: Made with ❤︎ by Fair Data Society.
+  content: Made with ❤︎ by <a href="https://fairdatasociety.org/" title="Fair Data
+    Society">Fair Data Society</a>.
 
 ---
