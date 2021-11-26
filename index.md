@@ -39,7 +39,7 @@ page_sections:
   col_1:
     headline: Start with Mother Earth.
     slug: ''
-    content: <img src="/uploads/2021/11/26/mother-earthgalileo.svg">
+    content: <img src="/uploads/2021/11/26/mother-earthgalileo-mini.png">
   col_2:
     headline: Add layers on top.
     slug: ''
