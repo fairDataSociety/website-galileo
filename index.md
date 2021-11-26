@@ -70,7 +70,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Move to other worlds
-  content: Build an app and use the maps and layers provided.
+  content: Build an app and use the maps and layers provided.<br><br><em>COMING SOON(ISH)...</em>
   media:
     image: "/uploads/2021/11/26/other-worlds-3galileo.svg"
     alt_text: ''
