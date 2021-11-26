@@ -51,7 +51,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
+  slug: mother-earth
   headline: Start with mother Earth
   content: Run your own node and become a country maintainer. Try out how the incentive
     system will reward your efforts.<br><br>TODO ADD LINK TO INSTRUCTIONS
