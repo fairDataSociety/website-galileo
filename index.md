@@ -56,7 +56,7 @@ page_sections:
   content: Run your own node and become a country maintainer. Try out how the incentive
     system will reward your efforts.
   media:
-    image: "/uploads/2021/10/01/temp-creative-element.jpg"
+    image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
 - template: content-feature
   block: feature-1
