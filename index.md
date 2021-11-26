@@ -61,7 +61,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: layers
   headline: Add layers on top
   content: Make a layer to be used with the maps and share it with the community.
   media:
