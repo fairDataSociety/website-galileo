@@ -78,12 +78,12 @@ page_sections:
   slug: ''
 - template: 1-column-text
   block: one-column-1
-  headline: Powered by Swarm and using Openstreetmaps data.
+  headline: Powered by Openstreetmaps data and using Swarm decentralized storage.
   content: Thanks to the community efforts behind Openstreetmaps maps of the world
     are already freely available. <br>Thanks to the power of Swarm, the data can be
     hosted by peers, compensating them for the provided storage and bandwidth, addressing
     also the country maintainers.
-  slug: ''
+  slug: powered-by
 - template: signup-bar
   block: cta-bar
   content: Build on Galileo on the upcoming Hackathon!
