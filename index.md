@@ -58,25 +58,6 @@ page_sections:
   media:
     image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: layers
-  headline: Add layers on top
-  content: Make a layer to be used with the maps and share it with the community.<br><br><em>COMING
-    SOON(ISH)...</em>
-  media:
-    image: "/uploads/2021/11/26/layers-2galileo.svg"
-    alt_text: Customize Blocks
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Move to other worlds
-  content: Build an app and use the maps and layers provided.<br><br><em>COMING SOON(ISH)...</em>
-  media:
-    image: "/uploads/2021/11/26/other-worlds-3galileo.svg"
-    alt_text: ''
-  slug: metaverse
 - template: 1-column-text
   block: one-column-1
   headline: Powered by OpenStreetMap data and using Swarm decentralized storage.
