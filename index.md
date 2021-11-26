@@ -17,8 +17,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: You can build the<br><strong>new world.</strong>
-  content: Make it a fair and free one.
+  headline: We can build the<br><strong>new world.</strong>
+  content: A fair and free one.
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
