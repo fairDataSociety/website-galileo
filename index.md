@@ -77,7 +77,7 @@ page_sections:
   slug: metaverse
 - template: 1-column-text
   block: one-column-1
-  headline: Powered by Openstreetmaps data and using Swarm decentralized storage.
+  headline: Powered by OpenStreetMap data and using Swarm decentralized storage.
   content: Thanks to the community efforts behind <a href="https://www.openstreetmap.org/"
     title="OpenStreetMap">OpenStreetMap</a>, maps of the world are already freely
     available. <br><br>Using <a href="https://www.ethswarm.org/" title="Swarm">Swarm</a>
