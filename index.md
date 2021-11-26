@@ -30,10 +30,9 @@ page_sections:
   background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
+  slug: world-as-you-want-it
   headline: Project Galileo - The world as you want to see it.
-  content: The World is not one, the Worlds are many. <br>Take matters into your own
-    hands and contribute to the emerging Metaverse.
+  content: 'The World is not one, the Worlds are many. '
 - template: 3-column-text
   block: three-column-1
   col_1:
