@@ -43,11 +43,11 @@ page_sections:
   col_2:
     headline: Add layers on top.
     slug: ''
-    content: <img src="/uploads/2021/11/26/layers-2galileo.svg">
+    content: <img src="/uploads/2021/11/26/layers-2galileo-mini.png">
   col_3:
     headline: Move to other worlds.
     slug: ''
-    content: <img src="/uploads/2021/11/26/other-worlds-3galileo.svg">
+    content: <img src="/uploads/2021/11/26/other-worlds-3galileo-mini.png">
 - template: content-feature
   block: feature-1
   media_alignment: Left
