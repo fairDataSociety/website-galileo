@@ -54,7 +54,7 @@ page_sections:
   slug: swap
   headline: Start with mother Earth
   content: Run your own node and become a country maintainer. Try out how the incentive
-    system will reward your efforts.
+    system will reward your efforts.<br><br>TODO ADD LINK TO INSTRUCTIONS
   media:
     image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
