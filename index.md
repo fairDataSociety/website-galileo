@@ -62,7 +62,8 @@ page_sections:
   media_alignment: Right
   slug: layers
   headline: Add layers on top
-  content: Make a layer to be used with the maps and share it with the community.
+  content: Make a layer to be used with the maps and share it with the community.<br><br><em>COMING
+    SOON(ISH)...</em>
   media:
     image: "/uploads/2021/11/26/layers-2galileo.svg"
     alt_text: Customize Blocks
