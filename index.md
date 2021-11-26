@@ -65,7 +65,7 @@ page_sections:
   headline: Add layers on top
   content: Make a layer to be used with the maps and share it with the community.
   media:
-    image: "/uploads/2021/10/01/temp-creative-element.jpg"
+    image: "/uploads/2021/11/26/layers-2galileo.svg"
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
