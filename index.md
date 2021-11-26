@@ -7,12 +7,10 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/11/26/logo5galileo.svg"
   navigation:
-  - link: contribute-maps
-    link_text: Contribute maps
   - link: "/"
     link_text: Home
-  - link: _posts
-    link_text: Blog
+  - link: contribute-maps
+    link_text: Contribute maps
   cta:
     url: https://app.galileo.fairdatasociety.org
     button_text: Try out Galileo
