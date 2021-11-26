@@ -73,7 +73,7 @@ page_sections:
   headline: Move to other worlds
   content: Build an app and use the maps and layers provided.
   media:
-    image: "/uploads/2021/10/01/temp-creative-element.jpg"
+    image: "/uploads/2021/11/26/other-worlds-3galileo.svg"
     alt_text: ''
   slug: ''
 - template: 1-column-text
