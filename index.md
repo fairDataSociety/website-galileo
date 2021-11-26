@@ -78,14 +78,13 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Powered by Openstreetmaps data and using Swarm decentralized storage.
-  content: Thanks to the community efforts behind Openstreetmaps maps of the world
-    are already freely available. <br><br>Using Swarm storage, the data can be hosted
-    by peers, compensating them for the provided storage and bandwidth.
+  content: Thanks to the community efforts behind <a href="https://www.openstreetmap.org/"
+    title="OpenStreetMap">OpenStreetMap</a>, maps of the world are already freely
+    available. <br><br>Using <a href="https://www.ethswarm.org/" title="Swarm">Swarm</a>
+    storage via <a href="https://github.com/fairDataSociety/fairOS-dfs" title="FairOS-dfs">FairOS-dfs</a>,
+    the data can be hosted by peers, compensating them for the provided storage and
+    bandwidth.
   slug: powered-by
-- template: signup-bar
-  block: cta-bar
-  content: Build on Galileo on the upcoming Hackathon!
-  email_recipient: crt.ahlin@ethswarm.org
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ by <a href="https://fairdatasociety.org/" title="Fair Data
