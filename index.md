@@ -5,7 +5,7 @@ date: 2021-10-03T22:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/11/26/logo6galileo-mini.png"
+  logo: "./uploads/2021/11/26/logo6galileo-mini.png"
   navigation:
   - link: "/"
     link_text: Home
@@ -27,7 +27,7 @@ page_sections:
     image: ''
     alt_text: ''
     show_image: false
-  background_image: "/uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
+  background_image: "./uploads/2021/10/01/nasa-yzygonrube8-unsplash.jpg"
 - template: 1-column-text
   block: one-column-1
   slug: world-as-you-want-it
@@ -38,15 +38,15 @@ page_sections:
   col_1:
     headline: Start with Mother Earth.
     slug: ''
-    content: <img src="/uploads/2021/11/26/mother-earthgalileo-mini.png">
+    content: <img src="./uploads/2021/11/26/mother-earthgalileo-mini.png">
   col_2:
     headline: Add layers on top.
     slug: ''
-    content: <img src="/uploads/2021/11/26/layers-2galileo-mini.png">
+    content: <img src="./uploads/2021/11/26/layers-2galileo-mini.png">
   col_3:
     headline: Move to other worlds.
     slug: ''
-    content: <img src="/uploads/2021/11/26/other-worlds-3galileo-mini.png">
+    content: <img src="./uploads/2021/11/26/other-worlds-3galileo-mini.png">
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -59,7 +59,7 @@ page_sections:
     try out <a href="https://app.galileo.fairdatasociety.org/" title="Galileo Maps">Galileo
     maps</a>!
   media:
-    image: "/uploads/2021/11/26/mother-earthgalileo.svg"
+    image: "./uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
 - template: 1-column-text
   block: one-column-1
