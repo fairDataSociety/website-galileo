@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: contribute-maps
+  - link: https://github.com/fairDataSociety/galileo/blob/master/README.md
     link_text: Contribute maps
   cta:
     url: https://app.galileo.fairdatasociety.org
