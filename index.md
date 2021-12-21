@@ -52,8 +52,8 @@ page_sections:
   media_alignment: Left
   slug: mother-earth
   headline: Start with mother Earth
-  content: Run your own node and become a country maintainer. Try out how the incentive
-    system will reward your efforts.<br><br>Yes, I want to <a href="https://github.com/fairDataSociety/galileo/blob/master/README.md"
+  content: Become a country maintainer - pick a country and contribute its map.<br><br>Yes,
+    I want to <a href="https://github.com/fairDataSociety/galileo/blob/master/README.md"
     title="Contribute maps">Contribute maps</a>!<br><br>Yes, I want to <a href="https://discord.gg/KrVTmahcUA"
     title="Join Discord">join the community on Discord</a>!
   media:
