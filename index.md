@@ -55,7 +55,9 @@ page_sections:
   content: Become a country maintainer - pick a country and contribute its map.<br><br>Yes,
     I want to <a href="https://github.com/fairDataSociety/galileo/blob/master/README.md"
     title="Contribute maps">Contribute maps</a>!<br><br>Yes, I want to <a href="https://discord.gg/KrVTmahcUA"
-    title="Join Discord">join the community on Discord</a>!
+    title="Join Discord">join the community on Discord</a>!<br><br>Yes, I want to
+    try out <a href="https://app.galileo.fairdatasociety.org/" title="Galileo Maps">Galileo
+    maps</a>!
   media:
     image: "/uploads/2021/11/26/mother-earthgalileo.svg"
     alt_text: The planet is ours to map.
